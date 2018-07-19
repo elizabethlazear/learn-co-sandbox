@@ -1,0 +1,43 @@
+#easy opponents:
+
+name= "Thomas the comit"
+transportation = "jumping"
+armour = "paper"
+weapon = "tomatoes"
+
+
+name = "Kain the Pain"
+transportaion = "foot"
+armour = "lether"
+weapon = "club"
+
+
+#Medum opponents:
+
+name = Antrix 
+transportaion = bear
+armour = iron
+weapon = sword
+
+name = Bruser the Cruiser
+transportaion = boat
+armour = gold
+weapon = axe
+
+
+#hard opponents:
+
+name = Daisy
+transportaion = motercycle 
+armour = invisability cloak
+weapon = fire sword
+
+name = Leo
+transportaion = lion
+armour = titainum
+weapon = explosives
+
+
+
+
+
